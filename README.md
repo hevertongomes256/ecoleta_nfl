@@ -3,7 +3,7 @@ Sistema web e mobile para identificação de lugares para coleta de reciclavéis
 
 Software criado na semana Next Level Week Booster da **Rockectseat**, onde foi desenvolvido backend, frontend e mobile
 
-![](https://github.com/hevertongomes/ecoleta_nfl/blob/master/logo.svg?row=True)
+![](https://github.com/hevertongomes/ecoleta_nfl/blob/master/home.svg?row=True)
 
 ## Tecnologias
 
