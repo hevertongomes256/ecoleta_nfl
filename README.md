@@ -3,6 +3,8 @@ Sistema web e mobile para identificação de lugares para coleta de reciclavéis
 
 Software criado na semana Next Level Week Booster da **Rockectseat**, onde foi desenvolvido backend, frontend e mobile
 
+![](https://github.com/hevertongomes/ecoleta_nfl/blob/master/logo.svg?row=True)
+
 ## Tecnologias
 
 ## Backend
@@ -20,9 +22,9 @@ Software criado na semana Next Level Week Booster da **Rockectseat**, onde foi d
 
 - React Native
 
-## Install
+## Instalação
 
-# Backend
+## Backend
 1. git clone https://github.com/hevertongomes/ecoleta_nfl.git
 2. cd server
 3. npm install
@@ -30,14 +32,14 @@ Software criado na semana Next Level Week Booster da **Rockectseat**, onde foi d
 6. npm run knex:migrate
 7. npm run knex:seed
 
-# Frontend
+## Frontend
 
 1. git clone https://github.com/hevertongomes/ecoleta_nfl.git
 2. cd frontend
 3. npm install
 4. npm start
 
-# Mobile
+## Mobile
 
 1. git clone https://github.com/hevertongomes/ecoleta_nfl.git
 2. cd mobile
